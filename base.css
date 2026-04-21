@@ -1,0 +1,15 @@
+main{
+    font-family: Arial;
+}
+
+h1{
+    color: blue;
+}
+
+p {
+    text-decoration: underline
+}
+
+img{
+    max-width: 400px;
+}
